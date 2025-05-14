@@ -2,6 +2,7 @@
 % Please edit documentation in R/zzz.R
 \docType{package}
 \name{logging-package}
+\alias{logging}
 \alias{logging-package}
 \title{A tentative logging package.}
 \description{
@@ -48,5 +49,27 @@ and contain a usable tutorial. Check the references.
 \references{
 the python logging module: \url{http://docs.python.org/library/logging.html}\cr
 this package at github: \url{https://github.com/WLOGSolutions/r-logging/}
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/WLOGSolutions/r-logging}
+  \item Report bugs at \url{https://github.com/WLOGSolutions/r-logging/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Walerian Sokolowski \email{r-logging@wlogsolutions.com}
+
+Authors:
+\itemize{
+  \item Mario Frasca \email{mariotomo@gmail.com}
+}
+
+Other contributors:
+\itemize{
+  \item Konrad Koziej [contributor]
+}
+
 }
 \keyword{package}

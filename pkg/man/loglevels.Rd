@@ -4,7 +4,9 @@
 \name{loglevels}
 \alias{loglevels}
 \title{The logging levels, names and values}
-\format{An object of class \code{numeric} of length 11.}
+\format{
+An object of class \code{numeric} of length 11.
+}
 \usage{
 loglevels
 }
